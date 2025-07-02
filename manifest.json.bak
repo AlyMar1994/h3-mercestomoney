@@ -4,19 +4,23 @@
 	"id": "am1994.mercestomoney",
 	"name": "Merces to Money",
 	"description": "\"Lord have Merces,\" what does that even mean?  Converts every instance (possible) of \"Merces\" or using the Merces icon to a currency of your choice.",
-	"authors": ["AlyMar1994"],
-	"loadAfter": ["am1994.realweaponnames"],
+	"authors": [ "AlyMar1994" ],
+	"loadAfter": [ "am1994.realweaponnames" ],
 	"frameworkVersion": "2.25.1",
-	"options": [
+	"options":
+	[
 		{
 			"name": "$",
 			"tooltip": "When enabled, this option will replace Merces and the [=M=] icon with USD ($).",
 			"enabledByDefault": true,
 			"group": "Currency",
 			"type": "select",
-			"localisationOverrides": {
-				"0018AE5CDD4C8358": {
-					"english": {
+			"localisationOverrides":
+			{
+				"0018AE5CDD4C8358":
+				{
+					"english":
+					{
 						"2725816457": "Mission Payout: ${0}{1}"
 					},
 					"french": {},
@@ -28,8 +32,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"001F0B9CE49EF0BF": {
-					"english": {
+				"001F0B9CE49EF0BF":
+				{
+					"english":
+					{
 						"3063639829": "Money Lost:"
 					},
 					"french": {},
@@ -41,8 +47,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"0031D320C0F9FF08": {
-					"english": {
+				"0031D320C0F9FF08":
+				{
+					"english":
+					{
 						"235883566": "$",
 						"323536051": "Money Indicator",
 						"400465776": "Enables or disables the money indicator.",
@@ -59,8 +67,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00324183CB4782D3": {
-					"english": {
+				"00324183CB4782D3":
+				{
+					"english":
+					{
 						"2126580855": "Dollars",
 						"3633829013": "Receive an amount of money."
 					},
@@ -73,8 +83,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00721E7431F678EA": {
-					"english": {
+				"00721E7431F678EA":
+				{
+					"english":
+					{
 						"7681339": "Pacify - Baseball Bat (+&nbsp;${0})",
 						"537689595": "Collateral Kill - Accident (+&nbsp;${0})",
 						"643482047": "Perfect Run (+&nbsp;${0})",
@@ -206,8 +218,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00749106596AFD39": {
-					"english": {
+				"00749106596AFD39":
+				{
+					"english":
+					{
 						"1233220219": "Cost: ${0}"
 					},
 					"french": {},
@@ -219,8 +233,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00B7482C2C0EF59D": {
-					"english": {
+				"00B7482C2C0EF59D":
+				{
+					"english":
+					{
 						"3743728475": "Pay Deposit: ${0}"
 					},
 					"french": {},
@@ -232,8 +248,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00CA8305A1B1C1F9": {
-					"english": {
+				"00CA8305A1B1C1F9":
+				{
+					"english":
+					{
 						"3677756057": "Couriers carry currency that you can steal.",
 						"603712913": "Payout Objectives are optional objectives for missions in Freelancer. When successfully completing a mission, a payout in cash ($) is granted for each completed Payout Objective. There is no penalty if you don't complete a Payout Objective. Only an expert Freelancer can complete them all.",
 						"2003461988": "Prestige Objectives are additional optional objectives that can be added to a selected mission from the Safehouse. When successfully completing the mission, a payout in cash ($) is granted if the selected Prestige Objective is also completed.",
@@ -249,8 +267,10 @@
 					"chineseTraditional": {},
 					"chineseSimplified": {}
 				},
-				"00E91EFE9D1B167A": {
-					"english": {
+				"00E91EFE9D1B167A":
+				{
+					"english":
+					{
 						"489569409": "Dollars",
 						"1220079315": "The lingua franca of the world's currencies, the U.S. Dollar is a strong and prevalent money that can be used for goods and services provided on missions. With low tracability and solid support, the USD is a safe valuta for a person keeping a low profile."
 					},
@@ -271,9 +291,12 @@
 			"enabledByDefault": false,
 			"group": "Currency",
 			"type": "select",
-			"localisationOverrides": {
-				"0031D320C0F9FF08": {
-					"english": {
+			"localisationOverrides":
+			{
+				"0031D320C0F9FF08":
+				{
+					"english":
+					{
 						"235883566": "€",
 						"323536051": "Money Indicator",
 						"400465776": "Enables or disables the money indicator."
@@ -294,9 +317,12 @@
 			"tooltip": "(Compatibility: Aly's Realistic Weapon Names)  Uses USD as currency.  When enabled, this option changes the Freelancer \"Fiber Wire Kill\" objective to \"Fibre Wire Kill\" should you want the Classic-style Fiber Wire renames in RWN.  IF YOU ARE USING \"Default\" OR \"Compromise\" IN RWN, YOU SHOULD NOT SELECT THIS.",
 			"type": "checkbox",
 			"group": "Compatibility",
-			"localisationOverrides": {
-				"00721E7431F678EA": {
-					"english": {
+			"localisationOverrides":
+			{
+				"00721E7431F678EA":
+				{
+					"english":
+					{
 						"1261570470": "Fibre Wire Kill (+&nbsp;${0})"
 					},
 					"french": {},
@@ -315,9 +341,12 @@
 			"tooltip": "(Compatibility: Aly's Realistic Weapon Names)  Uses the euro as its currency.  When enabled, this option changes the Freelancer \"Fiber Wire Kill\" objective to \"Fibre Wire Kill\" should you want the Classic-style Fiber Wire renames in RWN.  IF YOU ARE USING \"Default\" OR \"Compromise\" IN RWN, YOU SHOULD NOT SELECT THIS.",
 			"type": "checkbox",
 			"group": "Compatibility",
-			"localisationOverrides": {
-				"00721E7431F678EA": {
-					"english": {
+			"localisationOverrides":
+			{
+				"00721E7431F678EA":
+				{
+					"english":
+					{
 						"1261570470": "Fibre Wire Kill (+&nbsp;€{0})"
 					},
 					"french": {},
