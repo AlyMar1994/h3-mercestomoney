@@ -525,7 +525,7 @@
 		{
 			"name": "£",
 			"tooltip": "When enabled, this option will replace Merces and the [=M=] icon with the pound sterling (£).",
-			"enabledByDefault": true,
+			"enabledByDefault": false,
 			"group": "Currency",
 			"type": "select",
 			"localisationOverrides": {
