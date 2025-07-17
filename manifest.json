@@ -1077,6 +1077,48 @@
 					"chineseSimplified": {}
 				}
 			}
+		},
+		{
+			"name": "RWN - £",
+			"tooltip": "(Compatibility: Aly's Realistic Weapon Names)  Uses the pound sterling as its currency.  When enabled, this option changes the Freelancer \"Fiber Wire Kill\" objective to \"Fibre Wire Kill\" should you want the Classic-style Fiber Wire renames in RWN.  IF YOU ARE USING \"Default\" OR \"Compromise\" IN RWN, YOU SHOULD NOT SELECT THIS.",
+			"type": "checkbox",
+			"group": "Compatibility",
+			"localisationOverrides": {
+				"00721E7431F678EA": {
+					"english": {
+						"1261570470": "Fibre Wire Kill (+&nbsp;£{0})"
+					},
+					"french": {},
+					"german": {},
+					"italian": {},
+					"japanese": {},
+					"russian": {},
+					"spanish": {},
+					"chineseTraditional": {},
+					"chineseSimplified": {}
+				}
+			}
+		},
+		{
+			"name": "RWN - Fr.",
+			"tooltip": "(Compatibility: Aly's Realistic Weapon Names)  Uses the Swiss franc as its currency.  When enabled, this option changes the Freelancer \"Fiber Wire Kill\" objective to \"Fibre Wire Kill\" should you want the Classic-style Fiber Wire renames in RWN.  IF YOU ARE USING \"Default\" OR \"Compromise\" IN RWN, YOU SHOULD NOT SELECT THIS.",
+			"type": "checkbox",
+			"group": "Compatibility",
+			"localisationOverrides": {
+				"00721E7431F678EA": {
+					"english": {
+						"1261570470": "Fibre Wire Kill (+{0}&nbsp;Fr.)"
+					},
+					"french": {},
+					"german": {},
+					"italian": {},
+					"japanese": {},
+					"russian": {},
+					"spanish": {},
+					"chineseTraditional": {},
+					"chineseSimplified": {}
+				}
+			}
 		}
 	],
 	"updateCheck": "https://github.com/AlyMar1994/h3-mercestomoney/releases/latest/download/updates.json"
