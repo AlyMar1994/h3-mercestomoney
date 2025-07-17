@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"id": "am1994.mercestomoney",
 	"name": "Merces to Money",
 	"description": "\"Lord have Merces,\" what does that even mean?  Converts every instance (possible) of \"Merces\" or using the Merces icon to a currency of your choice.",

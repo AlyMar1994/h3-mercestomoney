@@ -6,4 +6,4 @@
 
 ---
 
-`am1994.mercestomoney` v2.0.0, by AlyMar1994. This README was automatically generated from the mod's manifest.
+`am1994.mercestomoney` v2.0.1, by AlyMar1994. This README was automatically generated from the mod's manifest.
